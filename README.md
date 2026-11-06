@@ -6,7 +6,7 @@ Most PDFs have a fixed page layout, so on a small screen the text shrinks instea
 
 ## Try it online
 
-**Link coming soon.**
+**[Open the app](https://doc2epub.streamlit.app)**
 
 1. Open the app in your browser. No installation is needed.
 2. Upload a PDF or DOCX file.
