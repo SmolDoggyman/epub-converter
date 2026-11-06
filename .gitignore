@@ -1,0 +1,17 @@
+# Virtual environment (each computer builds its own)
+.venv/
+
+# Python cache files (regenerated automatically)
+__pycache__/
+*.pyc
+
+# macOS folder settings
+.DS_Store
+
+# Documents and converted books (keep personal and copyrighted files private)
+*.pdf
+*.docx
+*.epub
+
+# Streamlit secrets, if you add any later
+.streamlit/secrets.toml
